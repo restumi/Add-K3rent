@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671055893379",
+    "project_id": "restutest-3c516",
+    "storage_bucket": "restutest-3c516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671055893379:android:1fa070f73a340e177e9cb6",
+        "android_client_info": {
+          "package_name": "com.example.nganu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGZQB0vufRy0BRve2KD1NCg215IeuyJXU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
